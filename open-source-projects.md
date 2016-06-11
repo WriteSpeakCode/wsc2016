@@ -1,6 +1,6 @@
 # Open Source Project Suggestions
 
-* [Resources]
+* [Resources](#resources)
 * [Suggestions by Language](#suggestions-by-language)
 * [Suggested Projects](#suggested-projects)
 
