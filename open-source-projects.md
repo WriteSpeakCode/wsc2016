@@ -5,6 +5,16 @@
 
 ## Suggestions by Language
 
+### Content & Documentation
+
+* [Girl Develop It Website](#girl-develop-it-website)
+* [GrowStuff](#growstuff)
+
+### Design & UX
+
+* [Girl Develop It Website](#girl-develop-it-website)
+* [GrowStuff](#growstuff)
+
 ### Frontend (HTML & CSS)
 
 * [Ohana (Code for America)](#ohana)
@@ -17,6 +27,7 @@
 Also, see [Node](#node)
 
 * [Exercism.io](#exercism-io)
+* [Girl Develop It Website](#girl-develop-it-website)
 
 ### Node
 
@@ -29,6 +40,8 @@ Also, see [Node](#node)
 ### Ruby
 
 * [Exercism.io](#exercism-io)
+* [Girl Develop It Website](#girl-develop-it-website)
+* [GrowStuff](#growstuff)
 * [Ohana (Code for America)](#ohana)
 * [Red Cross ArcData](#red-cross-arcdata)
 
@@ -66,6 +79,64 @@ Languages:
 * Plain text
 * Javascript
 * Go
+
+### Girl Develop It Website
+
+This is the official repository for the Girl Develop It website. 
+
+* [girldevelopit.com](http://girldevelopit.com)
+* [Github](https://github.com/girldevelopit/gdi-website)
+* [Documentation](http://gdi-new-site.readthedocs.org/)
+* [Contributing](https://github.com/girldevelopit/gdi-website/blob/staging/CONTRIBUTING.md)
+
+Issues:
+
+* [All Issues](https://github.com/girldevelopit/gdi-website/issues)
+* [Beginner friendly](https://github.com/girldevelopit/gdi-website/issues?q=is%3Aissue+is%3Aopen+label%3A%22Beginner+Friendly%22)
+* [Help Wanted](https://github.com/girldevelopit/gdi-website/issues?q=is%3Aissue+is%3Aopen+label%3A%22Help+Wanted%22)
+* [UX/Design](https://github.com/girldevelopit/gdi-website/labels/UX%2FDesign%20Needed)
+* [JavaScript](https://github.com/girldevelopit/gdi-website/labels/JavaScript)
+* [Ruby on Rails](https://github.com/girldevelopit/gdi-website/labels/Ruby%20On%20Rails%20Needed)
+* [Content Update](https://github.com/girldevelopit/gdi-website/issues?q=is%3Aissue+is%3Aopen+label%3A%22Content+Update%22)
+* [Copywriting](https://github.com/girldevelopit/gdi-website/issues?q=is%3Aissue+is%3Aopen+label%3A%22Copywriting+Needed%22)
+
+Languages/Tech
+
+* Ruby
+* Rails
+* JavaScript
+
+
+### GrowStuff
+Open data project for small-scale food growers 
+
+* [GrowStuff.org](http://growstuff.org/)
+* [Github](https://github.com/growstuff/growstuff)
+* [Contributing](https://github.com/Growstuff/growstuff/blob/dev/CONTRIBUTING.md)
+* [Getting Started](http://wiki.growstuff.org/index.php/Development/Getting_Started)
+* [Get Involved](http://wiki.growstuff.org/index.php/Get_involved)
+* [For coders](https://github.com/growstuff/growstuff#for-coders)
+* [For designers, writers, researchers, data wranglers, and other contributors](https://github.com/growstuff/growstuff#for-designers-writers-researchers-data-wranglers-and-other-contributors)
+
+
+Issues
+
+* [All Issues](http://github.com/Growstuff/growstuff/issues)
+* [Beginner](https://github.com/Growstuff/growstuff/labels/curated:%20beginner)
+* [Most Wanted](https://github.com/Growstuff/growstuff/labels/curated%3A%20most%20wanted)
+* [Small Effort](https://github.com/Growstuff/growstuff/labels/effort%3A%20small)
+* [Design](https://github.com/Growstuff/growstuff/labels/needs:%20design)
+* [Visual Design](https://github.com/Growstuff/growstuff/labels/needs:%20visual%20design)
+* [Documentation](https://github.com/Growstuff/growstuff/labels/needs:%20documentation)
+* [Data Entry](https://github.com/Growstuff/growstuff/labels/needs:%20data)
+
+
+Languages/Tech:
+
+* Ruby
+* Rails
+
+
 
 ### Illinois Campaign for Political Reform
 
