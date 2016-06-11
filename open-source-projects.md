@@ -28,7 +28,7 @@
 * **[NeoVim](#neovim)**
 * [Simbody](#simbody)
 
-### C#
+### C&#35;
 
 * **[OptiKey](#optikey)**
 * [Shouldly](#shouldly)
