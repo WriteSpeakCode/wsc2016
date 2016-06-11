@@ -16,22 +16,21 @@
 ### Android
 
 * [Mozilla](#mozilla)
-* [OpenTreeMap](#opentreemap-android]
+* [OpenTreeMap](#opentreemap-android)
 * [Refuge Restrooms](#refuge-restrooms-android)
 * [Servo](#servo)
-* [Ushahidi SMS Sync](#ushahidi-sms-sync)
+* **[Ushahidi SMS Sync](#ushahidi-sms-sync)**
 
 ### C/C++
 
 * [LibreOffice](#libreoffice)
 * [Mozilla](#mozilla)
-* [NeoVim](#neovim)
-
-* [Simbody](https://github.com/simbody/simbody) - High-performance C++ multibody dynamics/physics library for simulating articulated biomechanical and mechanical systems like vehicles, robots, and the human skeleton. 
+* **[NeoVim](#neovim)**
+* [Simbody](#simbody)
 
 ### C#
 
-* [OptiKey](#optikey)
+* **[OptiKey](#optikey)**
 * [Shouldly](#shouldly)
 
 * [Nodejs Tools for Visual Studio](https://github.com/Microsoft/nodejstools)
@@ -40,59 +39,59 @@
 ### Content, Documentation, & Translations
 
 * [Drupal](#drupal)
-* [Girl Develop It Website](#girl-develop-it-website)
+* **[Girl Develop It Website](#girl-develop-it-website)**
 * [GrowStuff](#growstuff)
 
 ### Design & UX
 
 * [Girl Develop It Website](#girl-develop-it-website)
-* [GrowStuff](#growstuff)
+* **[GrowStuff](#growstuff)**
 * [HospitalRun](#hospitalrun)
 * [OpenTreeMap](#opentreemap-core)
-* [Ushahidi Platform](#ushahidi-platform)
+* **[Ushahidi Platform](#ushahidi-platform)**
 
 ### Frontend (HTML & CSS)
 
-* [Drupal](#drupal)
-* [HospitalRun](#hospitalrun)
+* **[Drupal](#drupal)**
+* **[HospitalRun](#hospitalrun)**
 * [Mozilla](#mozilla)
 * [Ohana (Code for America)](#ohana)
 * [OpenStreetMap Tasking Manager](#openstreetmap-tasking-manager)
 
 ### Go
 
-* [Docker](#docker)
+* **[Docker](#docker)**
 * [Exercism.io](#exercism-io)
 * [Mozilla](#mozilla)
 
 ### Java
 See also [Android](#android)
 
-* [JRuby](#jruby)
+* **[JRuby](#jruby)**
 * [LibreOffice](#libreoffice)
 * [Mozilla](#mozilla)
-* [Teammates](#teammates)
+* **[Teammates](#teammates)**
 
 ### JavaScript
 See also [Node](#node)
 
 * [Exercism.io](#exercism-io)
 * [Girl Develop It Website](#girl-develop-it-website)
-* [HospitalRun](#hospitalrun) - Ember
+* **[HospitalRun](#hospitalrun) - Ember**
 * [LibreOffice](#libreoffice)
 * [Mozilla](#mozilla)
-* [OpenStreetMap Tasking Manager](#openstreetmap-tasking-manager)
+* **[OpenStreetMap Tasking Manager](#openstreetmap-tasking-manager)**
 * [Refuge Restrooms](#refuge-restrooms-web)
 
 ### iOS
 
 * [OpenTreeMap](#opentreemap-ios)
-* [ReactiveCocoa](#reactivecocoa)
+* **[ReactiveCocoa](#reactivecocoa)**
 * [Refuge Restrooms](#refuge-restrooms-ios)
 
 ### Node
 
-* [CodeCombat](#codecombat]
+* **[CodeCombat](#codecombat]**
 * [HospitalRun](#hospitalrun)
 * [Red Cross Smoke Alaram Portal](#red-cross-smoke-alarm-portal)
 
@@ -103,13 +102,13 @@ See [iOS](#ios)
 
 * [Drupal](#drupal)
 * [phpMyAdmin](#phpmyadmin)
-* [Ushahidi Platform](#ushahidi-platform)
+* **[Ushahidi Platform](#ushahidi-platform)**
 
 ### Python
 
-* [Census Reporter](#census-reporter]
+* **[Census Reporter](#census-reporter]**
 * [CodeCombat](#codecombat]
-* [Illinois Campaign for Political Reform](#illinois-campaign-for-political-reform)
+* **[Illinois Campaign for Political Reform](#illinois-campaign-for-political-reform)**
 * [LibreOffice](#libreoffice)
 * [Mozilla](#mozilla)
 * [OpenStreetMap Tasking Manager](#openstreetmap-tasking-manager)
@@ -121,10 +120,10 @@ See [iOS](#ios)
 
 * [Exercism.io](#exercism-io)
 * [Girl Develop It Website](#girl-develop-it-website)
-* [GrowStuff](#growstuff)
+* **[GrowStuff](#growstuff)**
 * [If Me](#ifme)
 * [Ohana (Code for America)](#ohana)
-* [Red Cross ArcData](#red-cross-arcdata)
+* **[Red Cross ArcData](#red-cross-arcdata)**
 * [Quill](#quill)
 
 ### Rust
@@ -780,6 +779,17 @@ Languages/Tools:
 * C#
 * .NET
 
+### Simbody
+High-performance C++ multibody dynamics/physics library for simulating articulated biomechanical and mechanical systems like vehicles, robots, and the human skeleton. 
+
+* [Website](https://simtk.org/home/simbody)
+* [Install](https://github.com/simbody/simbody#installing)
+* [Contributing](https://github.com/simbody/simbody/blob/master/CONTRIBUTING.md)
+
+Issues:
+
+* [All](https://github.com/simbody/simbody/issues)
+* [Help wanted](https://github.com/simbody/simbody/labels/help%20wanted)
 
 ### Teammates
 This is the project website for the TEAMMATES feedback management tool for education 
