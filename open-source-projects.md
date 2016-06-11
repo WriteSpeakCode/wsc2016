@@ -860,6 +860,8 @@ Languages/Tech:
 ### U.S. Web Design Standards
 Draft U.S. Web Design Standards - Open source UI components and visual style guide to create consistency and beautiful user experiences across U.S. federal government websites 
 
+**With mentor and keynote speaker, [Fureigh](https://2016.writespeakcode.com/speakers#fureigh)!**
+
 * [Website](https://standards.usa.gov/)
 * [Github](https://github.com/18F/web-design-standards)
 * [Getting started](https://github.com/18F/web-design-standards#getting-started)
