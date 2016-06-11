@@ -1,12 +1,45 @@
 # Open Source Project Suggestions
 
+* [Resources]
 * [Suggestions by Language](#suggestions-by-language)
 * [Suggested Projects](#suggested-projects)
 
+## Resources
+
+* [OpenHatch](http://openhatch.org/) - [Bitesized](https://openhatch.org/search/?q=&toughness=bitesize)
+* [CodeMontage](https://www.codemontage.com/)
+* [Open Source for Women](os4w.org)
+* [Github.com/Explore](https://github.com/explore)
+
 ## Suggestions by Language
 
-### Content & Documentation
+### Android
 
+* [Mozilla](#mozilla)
+* [OpenTreeMap](#opentreemap-android]
+* [Refuge Restrooms](#refuge-restrooms-android)
+* [Servo](#servo)
+* [Ushahidi SMS Sync](#ushahidi-sms-sync)
+
+### C/C++
+
+* [LibreOffice](#libreoffice)
+* [Mozilla](#mozilla)
+* [NeoVim](#neovim)
+
+* [Simbody](https://github.com/simbody/simbody) - High-performance C++ multibody dynamics/physics library for simulating articulated biomechanical and mechanical systems like vehicles, robots, and the human skeleton. 
+
+### C#
+
+* [OptiKey](#optikey)
+* [Shouldly](#shouldly)
+
+* [Nodejs Tools for Visual Studio](https://github.com/Microsoft/nodejstools)
+* [OpenRA](https://github.com/OpenRA/OpenRA) - Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X. 
+
+### Content, Documentation, & Translations
+
+* [Drupal](#drupal)
 * [Girl Develop It Website](#girl-develop-it-website)
 * [GrowStuff](#growstuff)
 
@@ -14,30 +47,75 @@
 
 * [Girl Develop It Website](#girl-develop-it-website)
 * [GrowStuff](#growstuff)
+* [HospitalRun](#hospitalrun)
+* [OpenTreeMap](#opentreemap-core)
+* [Ushahidi Platform](#ushahidi-platform)
 
 ### Frontend (HTML & CSS)
 
+* [Drupal](#drupal)
+* [HospitalRun](#hospitalrun)
+* [Mozilla](#mozilla)
 * [Ohana (Code for America)](#ohana)
+* [OpenStreetMap Tasking Manager](#openstreetmap-tasking-manager)
 
 ### Go
 
+* [Docker](#docker)
 * [Exercism.io](#exercism-io)
+* [Mozilla](#mozilla)
+
+### Java
+See also [Android](#android)
+
+* [JRuby](#jruby)
+* [LibreOffice](#libreoffice)
+* [Mozilla](#mozilla)
+* [Teammates](#teammates)
 
 ### JavaScript
-Also, see [Node](#node)
+See also [Node](#node)
 
 * [Exercism.io](#exercism-io)
 * [Girl Develop It Website](#girl-develop-it-website)
+* [HospitalRun](#hospitalrun) - Ember
+* [LibreOffice](#libreoffice)
+* [Mozilla](#mozilla)
+* [OpenStreetMap Tasking Manager](#openstreetmap-tasking-manager)
+* [Refuge Restrooms](#refuge-restrooms-web)
+
+### iOS
+
+* [OpenTreeMap](#opentreemap-ios)
+* [ReactiveCocoa](#reactivecocoa)
+* [Refuge Restrooms](#refuge-restrooms-ios)
 
 ### Node
 
 * [CodeCombat](#codecombat]
+* [HospitalRun](#hospitalrun)
 * [Red Cross Smoke Alaram Portal](#red-cross-smoke-alarm-portal)
+
+### Objective-C
+See [iOS](#ios)
+
+### PHP
+
+* [Drupal](#drupal)
+* [phpMyAdmin](#phpmyadmin)
+* [Ushahidi Platform](#ushahidi-platform)
 
 ### Python
 
+* [Census Reporter](#census-reporter]
 * [CodeCombat](#codecombat]
 * [Illinois Campaign for Political Reform](#illinois-campaign-for-political-reform)
+* [LibreOffice](#libreoffice)
+* [Mozilla](#mozilla)
+* [OpenStreetMap Tasking Manager](#openstreetmap-tasking-manager)
+* [OpenTreeMap](#opentreemap-core)
+
+* [Astropy](https://github.com/astropy/astropy) - Astropy is a community effort in the astrophysics community to develop a single core package for Astronomy in Python. 
 
 ### Ruby
 
@@ -49,8 +127,45 @@ Also, see [Node](#node)
 * [Red Cross ArcData](#red-cross-arcdata)
 * [Quill](#quill)
 
+### Rust
+
+* [Mozilla](#mozilla)
+* [Servo](#servo)
+
+### Shell
+
+* [Mozilla](#mozilla)
+
+### SQL
+
+* [LibreOffice](#libreoffice)
+
+### Swift
+See [iOS](#ios)
 
 ## Suggested Projects
+
+### Census Reporter
+
+Census Reporter is a Knight News Challenge-funded project to make it easier for journalists to write stories using information from the U.S. Census bureau. 
+
+* [Website](http://censusreporter.org)
+* [Github](https://github.com/censusreporter/censusreporter)
+* [Setting up for local development](https://github.com/censusreporter/censusreporter#setting-up-for-local-development)
+
+Issues:
+
+* [All](https://github.com/censusreporter/censusreporter/issues)
+* [Good for new contributors](https://github.com/censusreporter/censusreporter/labels/good%20for%20new%20contributors)
+* [Documentation](https://github.com/censusreporter/censusreporter/labels/documentation)
+* [Bug](https://github.com/censusreporter/censusreporter/labels/bug)
+
+Languages/Tech:
+
+* HTML
+* Javascript
+* Python
+* Django
 
 ### CodeCombat
 Game for learning how to code. 
@@ -73,6 +188,40 @@ Languages/Tech:
 * Node.js
 * MongoDB
 * Python
+
+### Docker
+Docker - the open-source application container engine 
+
+* [Website](http://www.docker.com)
+* [Github](https://github.com/docker/docker)
+* [Contributing](https://github.com/docker/docker/blob/master/CONTRIBUTING.md)
+* [Installation](https://docs.docker.com/engine/installation/)
+* [How the project is run](https://github.com/docker/docker#how-the-project-is-run)
+
+Issues:
+
+* [All](https://github.com/docker/docker/issues)
+* [Beginner](https://github.com/docker/docker/labels/exp%2Fbeginner)
+* [Intermediate](https://github.com/docker/docker/labels/exp%2Fintermediate)
+
+Languages/Tech:
+
+* GO
+
+
+### Drupal
+
+* [Getting Involved](https://www.drupal.org/getting-involved-guide)
+* [Documentation](https://www.drupal.org/contribute/documentation)
+* [Translations](https://www.drupal.org/contribute/translations)
+* [Testing](https://www.drupal.org/contribute/testing)
+* [Development](https://www.drupal.org/contribute/development)
+* [Themes (frontend)](https://www.drupal.org/contribute/themes)
+
+Issues:
+
+* [30 min contributions](https://www.drupal.org/node/1326506)
+* [Novice](https://www.drupal.org/project/issues/search?projects=&status[]=Open&issue_tags=Novice)
 
 
 ### Exercism.io
@@ -163,6 +312,29 @@ Languages/Tech:
 * Ruby
 * Rails
 
+### HospitalRun
+Ember front end for HospitalRun 
+
+* [Website](http://hospitalrun.io/)
+* [Github](https://github.com/HospitalRun/hospitalrun-frontend)
+* [Contributing](https://github.com/hospitalrun/hospitalrun-frontend/blob/master/.github/CONTRIBUTING.md)
+* [Install](https://github.com/HospitalRun/hospitalrun-frontend#install)
+
+
+Issues:
+
+* [Issues](https://github.com/HospitalRun/hospitalrun-frontend/issues)
+* [Help Wanted](https://github.com/HospitalRun/hospitalrun-frontend/labels/Help%20Wanted)
+* [CSS](https://github.com/HospitalRun/hospitalrun-frontend/labels/CSS)
+* [Design](https://github.com/HospitalRun/hospitalrun-frontend/labels/design)
+* [UX](https://github.com/HospitalRun/hospitalrun-frontend/labels/UX)
+
+Languages/Tech:
+
+* Javascript
+* Ember.js
+* Node.js ([server](https://github.com/HospitalRun/hospitalrun-server)
+
 ### Ifme
 Open source app to share mental health experiences with loved ones
 
@@ -202,6 +374,82 @@ Languages/Tech
 
 * Python
 * Postgres
+
+### JRuby
+JRuby, an implementation of Ruby on the JVM 
+
+* [Website](http://www.jruby.org)
+* [Github](https://github.com/jruby/jruby)
+* [Building](https://github.com/jruby/jruby/blob/master/BUILDING.md)
+
+Issues:
+
+* [All](https://github.com/jruby/jruby/issues)
+* [Beginner](https://github.com/jruby/jruby/labels/beginner)
+
+Languages/Tech:
+
+* Java
+* Ruby
+
+
+
+### LibreOffice
+
+* [Website](http://www.libreoffice.org/)
+* [Developers](http://www.libreoffice.org/community/developers/)
+* [Source code](http://www.libreoffice.org/about-us/source-code/)
+
+Issues:
+
+* [EasyHacks by skill then difficulty](https://wiki.documentfoundation.org/Development/Easy_Hacks/by_Required_Skill)
+* [Beginners](https://wiki.documentfoundation.org/Development/Easy_Hacks/lists/by_Difficulty#Easy_Hacks_for_Beginners)
+
+Languages/Tech:
+
+* C/C++
+* Java
+* JavaScript
+* Perl
+* Python
+* SQL
+* VCL
+* Windows
+
+
+### Mozilla
+
+* [Developer Guide](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Introduction]
+
+Languages/Tech:
+
+* C/C++
+* Java
+* Android
+* JavaScript
+* HTML/CSS
+* Python
+* Shell
+* Rust
+* Go
+
+### NeoVim
+Vim-fork focused on extensibility and agility. 
+
+* [Website](https://salt.bountysource.com/teams/neovim)
+* [Github](https://github.com/neovim/neovim)
+* [Contributing](https://github.com/neovim/neovim/blob/master/CONTRIBUTING.md)
+
+Issues:
+
+* [All](https://github.com/neovim/neovim/issues)
+* [Entry level](https://github.com/neovim/neovim/labels/entry-level)
+
+Languages/Tech:
+
+* VimL
+* C
+
 
 ### Ohana
 
@@ -248,46 +496,116 @@ Languages/Tech:
 * Template Engines: ERB and HAML
 * Testing Frameworks: RSpec, Capybara, Poltergeist
 
+### OpenStreetMap Tasking Manager
+Designed and built for Humanitarian OpenStreetMap Team collaborative emergency/disaster mapping, the OSM Tasking Manager 2.0 divides an area into individual squares that can be rapidly mapped by thousands of volunteers. 
 
-
-
-### Red Cross ArcData
-
-Scheduling/analytics tool for Disaster Services
-
-* [Github](https://github.com/redcross/arcdata)
+* [Website](http://tasks.hotosm.org)
+* [Github](https://github.com/hotosm/osm-tasking-manager2)
+* [Installation](https://github.com/hotosm/osm-tasking-manager2#installation)
 
 Issues:
 
-* [All Issues](https://github.com/redcross/arcdata/issues)
-* [Quick Fix](https://github.com/redcross/arcdata/issues?q=is%3Aissue+is%3Aopen+label%3Aquick-fix)
-* [High Priority)[https://github.com/redcross/arcdata/labels/high-priority]
+* [All](https://github.com/hotosm/osm-tasking-manager2/issues)
+* [Easy](https://github.com/hotosm/osm-tasking-manager2/labels/easy)
+* [Bug](https://github.com/hotosm/osm-tasking-manager2/labels/bug)
+* [Priority High](https://github.com/hotosm/osm-tasking-manager2/labels/priority_high)
+* [UI](https://github.com/hotosm/osm-tasking-manager2/labels/UI)
 
 Languages/Tech:
 
-* Ruby (Rails)
+* CSS
+* Javascript
+* Python
 
+### OpenTreeMap 
+OpenTreeMap is a collaborative platform for crowdsourced tree inventory, ecosystem services calculations, urban forestry analysis, and community engagement. 
 
-### Red Cross Smoke Alarm Portal
+* [Website](http://www.opentreemap.org)
 
-Web portal to handle requests for smoke alarm installation.
+#### OpenTreeMap Core
 
-* [Demo](https://demo.getasmokealarm.org/)
-* [Github](https://github.com/redcross/smoke-alarm-portal)
-* [Install](https://github.com/redcross/smoke-alarm-portal/blob/master/INSTALL.md)
-* [Development](https://github.com/redcross/smoke-alarm-portal/blob/master/DEVELOPMENT.md)
+* [Github](https://github.com/OpenTreeMap/otm-core)
+* [JS File Structure](https://github.com/OpenTreeMap/otm-core#js-file-structure)
+* [Contributing](https://github.com/OpenTreeMap/otm-core/blob/develop/CONTRIBUTING.md)
 
 Issues:
 
-* [All Issues](https://github.com/redcross/smoke-alarm-portal/issues)
-* [Help wanted](https://github.com/redcross/smoke-alarm-portal/labels/help%20wanted)
-* [Easy Pickings](https://github.com/redcross/smoke-alarm-portal/labels/easy-pickings)
-
+* [All](https://github.com/OpenTreeMap/otm-core/issues)
+* [Bug](https://github.com/OpenTreeMap/otm-core/labels/bug)
+* [High Priority](https://github.com/OpenTreeMap/otm-core/labels/high)
+* [Design](https://github.com/OpenTreeMap/otm-core/labels/design)
 
 Languages/Tech:
-* JavaScript
-* Node.js, Express, Jade
-* Postgres
+
+* Python
+* Django
+* Javascript
+
+#### OpenTreeMap Android
+
+* [Github](https://github.com/OpenTreeMap/otm-android)
+* [Development Instructions](https://github.com/OpenTreeMap/otm-android#development-instructions)
+
+Issues:
+
+* [All](https://github.com/OpenTreeMap/otm-android/issues)
+
+Languages/Tech:
+
+* Java
+* Android
+
+#### OpenTreeMap iOS
+
+* [Github](https://github.com/OpenTreeMap/otm-ios)
+* [Getting Started](https://github.com/OpenTreeMap/otm-ios#getting-started)
+
+Issues:
+
+* [All](https://github.com/OpenTreeMap/otm-ios/issues)
+* [High](https://github.com/OpenTreeMap/otm-ios/labels/high)
+* [Bug](https://github.com/OpenTreeMap/otm-ios/labels/bug)
+
+Languages/Tech:
+
+* Objective-C
+* iOS
+
+### OptiKey
+OptiKey - Full computer control and speech with your eyes 
+
+* [Website](http://www.optikey.org)
+* [Github](https://github.com/OptiKey/OptiKey)
+* [Getting started](https://github.com/OptiKey/OptiKey#getting-started)
+
+Issues:
+
+* [All](https://github.com/OptiKey/OptiKey/issues)
+* [Help wanted](https://github.com/OptiKey/OptiKey/labels/STATUS%3Ahelp%20wanted)
+
+Languages/Frameworks
+
+* C#
+
+### phpMyAdmin
+phpMyAdmin itself 
+
+* [Website](http://www.phpmyadmin.net/)
+* [Github](https://github.com/phpmyadmin/phpmyadmin)
+* [Contributing](https://github.com/phpmyadmin/phpmyadmin/blob/master/CONTRIBUTING.md)
+* [Docs](https://docs.phpmyadmin.net/)
+
+Issues:
+
+* [All](https://github.com/phpmyadmin/phpmyadmin/issues)
+* [Newbie](https://github.com/phpmyadmin/phpmyadmin/labels/newbie)
+* [Help wanted](https://github.com/phpmyadmin/phpmyadmin/labels/help%20wanted)
+
+Languages/Tech:
+
+* PHP
+
+
 
 ### Quill
 Empirical-Core is our web app for managing students, assigning activities, and viewing results. Core seamlessly incorporates 3rd party applications via the Empirical API. 
@@ -313,4 +631,215 @@ Languages/Tech:
 * Redis
 * JavaScript
 
+### ReactiveCocoa
+ReactiveCocoa (RAC) is a Cocoa framework inspired by Functional Reactive Programming. It provides APIs for composing and transforming streams of values over time.
+
+* [Github](https://github.com/ReactiveCocoa/ReactiveCocoa)
+* [Introduction](https://github.com/ReactiveCocoa/ReactiveCocoa#introduction)
+* [Contributing](https://github.com/ReactiveCocoa/ReactiveCocoa/blob/master/CONTRIBUTING.md)
+
+Issues:
+
+* [All](https://github.com/ReactiveCocoa/ReactiveCocoa/issues)
+* [Good first step](https://github.com/ReactiveCocoa/ReactiveCocoa/labels/good%20first%20step)
+* [Help wanted](https://github.com/ReactiveCocoa/ReactiveCocoa/labels/help%20wanted)
+
+Languages/Tech:
+
+* Swift
+* Objective-C
+* iOS
+
+### Red Cross ArcData
+
+Scheduling/analytics tool for Disaster Services
+
+* [Github](https://github.com/redcross/arcdata)
+
+Issues:
+
+* [All Issues](https://github.com/redcross/arcdata/issues)
+* [Quick Fix](https://github.com/redcross/arcdata/issues?q=is%3Aissue+is%3Aopen+label%3Aquick-fix)
+* [High Priority)[https://github.com/redcross/arcdata/labels/high-priority]
+
+Languages/Tech:
+
+* Ruby (Rails)
+
+### Red Cross Smoke Alarm Portal
+
+Web portal to handle requests for smoke alarm installation.
+
+* [Demo](https://demo.getasmokealarm.org/)
+* [Github](https://github.com/redcross/smoke-alarm-portal)
+* [Install](https://github.com/redcross/smoke-alarm-portal/blob/master/INSTALL.md)
+* [Development](https://github.com/redcross/smoke-alarm-portal/blob/master/DEVELOPMENT.md)
+
+Issues:
+
+* [All Issues](https://github.com/redcross/smoke-alarm-portal/issues)
+* [Help wanted](https://github.com/redcross/smoke-alarm-portal/labels/help%20wanted)
+* [Easy Pickings](https://github.com/redcross/smoke-alarm-portal/labels/easy-pickings)
+
+
+Languages/Tech:
+* JavaScript
+* Node.js, Express, Jade
+* Postgres
+
+### Refuge Restrooms
+REFUGE restrooms indexes and maps safe restroom locations for trans, intersex, and gender nonconforming individuals. 
+* [Website](http://www.refugerestrooms.org)
+
+#### Refuge Restrooms Web
+* [Github](https://github.com/RefugeRestrooms/refugerestrooms)
+* [Contributing](https://github.com/RefugeRestrooms/refugerestrooms/blob/develop/CONTRIBUTING.md)
+
+Issues:
+
+* [All](https://github.com/RefugeRestrooms/refugerestrooms/issues)
+* [Newbie](https://github.com/RefugeRestrooms/refugerestrooms/labels/newbie)
+* [Bug](https://github.com/RefugeRestrooms/refugerestrooms/labels/bug)
+
+Languages/Tech:
+
+* Ruby Version - ruby-2.3.0
+* Ruby on Rails
+* RSpec
+* Javascript
+* HTML / SASS
+* Postgres
+* Geocoder Gem
+* Google Maps API
+* Twitter Bootstrap Framework
+* Deployed on Heroku
+
+#### Refuge Restrooms Android
+
+* [Github](https://github.com/RefugeRestrooms/refugerestrooms-android)
+* [Contributing](https://github.com/RefugeRestrooms/refugerestrooms-android#contributing)
+* [TODOs](https://github.com/RefugeRestrooms/refugerestrooms-android#todo)
+
+Issues:
+
+* [All](https://github.com/RefugeRestrooms/refugerestrooms-android/issues)
+
+#### Refuge Restrooms iOS
+
+* [Github](https://github.com/RefugeRestrooms/refugerestrooms-ios)
+* [Contributing](https://github.com/RefugeRestrooms/refugerestrooms-ios/blob/develop/CONTRIBUTING.md)
+
+Issues:
+
+* [All](https://github.com/RefugeRestrooms/refugerestrooms-ios/issues)
+* [Bug](https://github.com/RefugeRestrooms/refugerestrooms-ios/labels/bug)
+* [Documentation](https://github.com/RefugeRestrooms/refugerestrooms-ios/labels/documentation)
+* [Non-technical](https://github.com/RefugeRestrooms/refugerestrooms-ios/labels/non-technical)
+
+### Servo
+The Servo Browser Engine 
+Servo is a prototype web browser engine written in the Rust language. It is currently developed on 64bit OS X, 64bit Linux, and Android.
+
+* [Website](https://servo.org/)
+* [Github](https://github.com/servo/servo)
+* [Prerequisites](https://github.com/servo/servo#prerequisites)
+* [Contributing](https://github.com/servo/servo/blob/master/CONTRIBUTING.md)
+* [Hacking Quickstart](https://github.com/servo/servo/blob/master/docs/HACKING_QUICKSTART.md)
+
+Issues:
+
+* [All](https://github.com/servo/servo/issues)
+* [Easy](https://github.com/servo/servo/labels/E-easy)
+* [High value](https://github.com/servo/servo/labels/B-high-value)
+* [Interesting project](https://github.com/servo/servo/labels/B-interesting-project)
+* [Python](https://github.com/servo/servo/labels/L-python)
+* [Android](https://github.com/servo/servo/labels/P-android)
+
+Languages/Tech:
+
+* Rust
+* Android
+* Python
+
+
+### Shouldly
+Should testing for .net - the way Asserting *Should* be! 
+
+* [Github](https://github.com/shouldly/shouldly)
+* [Docs](http://shouldly.readthedocs.org/en/latest)
+* [Installation](https://github.com/shouldly/shouldly#installation)
+* [Contributing](https://github.com/shouldly/shouldly#contributing)
+
+Issues:
+
+* [All](https://github.com/shouldly/shouldly/issues)
+* [Jump in](https://github.com/shouldly/shouldly/labels/Jump-In)
+
+Languages/Tools:
+
+* C#
+* .NET
+
+
+### Teammates
+This is the project website for the TEAMMATES feedback management tool for education 
+
+* [Website](http://teammatesv4.appspot.com/)
+* [Github](https://github.com/TEAMMATES/teammates)
+* [Contributing](https://github.com/TEAMMATES/teammates/blob/master/CONTRIBUTING.md)
+* [Resources for contributing](https://github.com/TEAMMATES/teammates#interested-to-join-teammates-developer-team)
+* [Documentation for developers](https://github.com/TEAMMATES/teammates#documentation-for-developers)
+
+Issues:
+
+* [All](https://github.com/TEAMMATES/teammates/issues)
+* [First times](https://github.com/TEAMMATES/teammates/labels/d.FirstTimers)
+* [UX](https://github.com/TEAMMATES/teammates/labels/a-UIX)
+* [Docs](https://github.com/TEAMMATES/teammates/labels/a-Docs)
+* [DevOps](https://github.com/TEAMMATES/teammates/labels/a-DevOps)
+
+Languages/Tech:
+
+* Java
+
+###  Ushahidi Platform
+Ushahidi Platform v3 API 
+
+* [Website](http://ushahidi.com)
+* [Github](https://github.com/ushahidi/platform)
+* [Get Involved](https://www.ushahidi.com/support/get-involved)
+* [Installation guide](https://www.ushahidi.com/support/install-ushahidi)
+* [Documentation](https://www.ushahidi.com/support)
+* [Contributing](https://github.com/ushahidi/platform/blob/master/CONTRIBUTING.md)
+
+Issues:
+
+* [All](https://github.com/ushahidi/platform/issues)
+* [Community Task](https://github.com/ushahidi/platform/labels/Community%20Task)
+* [First time](https://github.com/ushahidi/platform/labels/Theme%3A%20First%20time%20experience)
+* [Data visualization](https://github.com/ushahidi/platform/labels/Theme%3A%20Data%20vis)
+* [UI](https://github.com/ushahidi/platform/labels/UI)
+
+Languages/Tech:
+
+* PHP
+
+### Ushahidi SMS Sync
+SMS gateway for Android powered phones 
+
+* [Website](http://smssync.ushahidi.com)
+* [Github](https://github.com/ushahidi/SMSSync)
+* [Building](https://github.com/ushahidi/SMSSync/blob/master/BUILDING.md)
+* [Developer Documentation](http://smssync.ushahidi.com/developers/)
+
+Issues:
+
+* [All](https://github.com/ushahidi/SMSSync/issues)
+* [Good first issue](https://github.com/ushahidi/SMSSync/labels/Good%20first%20issue%20to%20work%20on)
+* [User Experience](https://github.com/ushahidi/SMSSync/labels/User%20Experience)
+
+Languages/Tech:
+
+* Java
+* Android
 
