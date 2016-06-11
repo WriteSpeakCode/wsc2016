@@ -362,11 +362,14 @@ Languages/Tech:
  * [Setup](https://github.com/Illinois-Campaign-for-Political-Reform/illinois-sunshine#setup)
  * [Notes on Pull Requests](https://github.com/Illinois-Campaign-for-Political-Reform/illinois-sunshine#note-on-patchespull-requests)
  
+
  Issues:
 
 * [All Issues](https://github.com/Illinois-Campaign-for-Political-Reform/illinois-sunshine/issues)
 * [Help wanted](https://github.com/Illinois-Campaign-for-Political-Reform/illinois-sunshine/labels/help%20wanted)
 * [Bug](https://github.com/Illinois-Campaign-for-Political-Reform/illinois-sunshine/issues?q=is%3Aissue+is%3Aopen+label%3Abug)
+
+
 Languages/Tech
 
 * Python
