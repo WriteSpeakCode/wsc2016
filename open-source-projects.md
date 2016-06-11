@@ -32,15 +32,14 @@
 
 * **[OptiKey](#optikey)**
 * [Shouldly](#shouldly)
-
 * [Nodejs Tools for Visual Studio](https://github.com/Microsoft/nodejstools)
-* [OpenRA](https://github.com/OpenRA/OpenRA) - Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X. 
+* [OpenRA](https://github.com/OpenRA/OpenRA)
 
 ### Content, Documentation, & Translations
 
 * [Drupal](#drupal)
 * **[Girl Develop It Website](#girl-develop-it-website)**
-* [GrowStuff](#growstuff)
+* **[GrowStuff](#growstuff)**
 
 ### Design & UX
 
@@ -91,7 +90,7 @@ See also [Node](#node)
 
 ### Node
 
-* **[CodeCombat](#codecombat]**
+* **[CodeCombat](#codecombat)**
 * [HospitalRun](#hospitalrun)
 * [Red Cross Smoke Alaram Portal](#red-cross-smoke-alarm-portal)
 
@@ -106,15 +105,14 @@ See [iOS](#ios)
 
 ### Python
 
-* **[Census Reporter](#census-reporter]**
-* [CodeCombat](#codecombat]
+* **[Census Reporter](#census-reporter)**
+* [CodeCombat](#codecombat)
 * **[Illinois Campaign for Political Reform](#illinois-campaign-for-political-reform)**
 * [LibreOffice](#libreoffice)
 * [Mozilla](#mozilla)
 * [OpenStreetMap Tasking Manager](#openstreetmap-tasking-manager)
 * [OpenTreeMap](#opentreemap-core)
-
-* [Astropy](https://github.com/astropy/astropy) - Astropy is a community effort in the astrophysics community to develop a single core package for Astronomy in Python. 
+* [Astropy](https://github.com/astropy/astropy)
 
 ### Ruby
 
