@@ -854,3 +854,20 @@ Languages/Tech:
 * Java
 * Android
 
+### U.S. Web Design Standards
+Draft U.S. Web Design Standards - Open source UI components and visual style guide to create consistency and beautiful user experiences across U.S. federal government websites 
+
+* [Website](https://standards.usa.gov/)
+* [Github](https://github.com/18F/web-design-standards)
+* [Getting started](https://github.com/18F/web-design-standards#getting-started)
+* [Contributing](https://github.com/18F/web-design-standards/blob/staging/CONTRIBUTING.md)
+
+Issues:
+
+* [All](https://github.com/18F/web-design-standards/issues)
+* [Engineering](https://github.com/18F/web-design-standards/labels/%5BCategory%5D%20Engineering)
+* [DevOps](https://github.com/18F/web-design-standards/labels/%5BCategory%5D%20DevOps)
+* [Frontend](https://github.com/18F/web-design-standards/labels/%5BCategory%5D%20Front%20end)
+* [User Experience](https://github.com/18F/web-design-standards/labels/%5BCategory%5D%20User%20Experience)
+* [Visual Design](https://github.com/18F/web-design-standards/labels/%5BCategory%5D%20Visual%20Design)
+
