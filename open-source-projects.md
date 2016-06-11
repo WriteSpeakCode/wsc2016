@@ -31,10 +31,12 @@ Also, see [Node](#node)
 
 ### Node
 
+* [CodeCombat](#codecombat]
 * [Red Cross Smoke Alaram Portal](#red-cross-smoke-alarm-portal)
 
 ### Python
 
+* [CodeCombat](#codecombat]
 * [Illinois Campaign for Political Reform](#illinois-campaign-for-political-reform)
 
 ### Ruby
@@ -42,11 +44,36 @@ Also, see [Node](#node)
 * [Exercism.io](#exercism-io)
 * [Girl Develop It Website](#girl-develop-it-website)
 * [GrowStuff](#growstuff)
+* [If Me](#ifme)
 * [Ohana (Code for America)](#ohana)
 * [Red Cross ArcData](#red-cross-arcdata)
+* [Quill](#quill)
 
 
 ## Suggested Projects
+
+### CodeCombat
+Game for learning how to code. 
+
+* [Website](http://codecombat.com)
+* [Github](https://github.com/codecombat/codecombat)
+* [Dev Setup](https://github.com/codecombat/codecombat/wiki/Dev-Setup:-General-Information)
+* [Contributing](https://github.com/codecombat/codecombat/blob/master/CONTRIBUTING.md)
+
+Issues:
+
+* [All](https://github.com/codecombat/codecombat/issues)
+* [Good for newbies](https://github.com/codecombat/codecombat/issues?q=is%3Aissue+is%3Aopen+label%3Agood-for-newbies)
+* [Advanced](https://github.com/codecombat/codecombat/labels/advanced)
+* [Bug](https://github.com/codecombat/codecombat/labels/bug)
+
+Languages/Tech:
+
+* Javascript
+* Node.js
+* MongoDB
+* Python
+
 
 ### Exercism.io
 
@@ -136,6 +163,25 @@ Languages/Tech:
 * Ruby
 * Rails
 
+### Ifme
+Open source app to share mental health experiences with loved ones
+
+Created by WSC Organizer, Julia Nguyen!
+
+* [if-me.org](http://www.if-me.org/)
+* [Github](https://github.com/julianguyen/ifme)
+* [Getting involved](https://github.com/julianguyen/ifme#getting-involved)
+* [Getting Started](https://github.com/julianguyen/ifme#getting-started)
+
+Issues:
+
+* [All](https://github.com/julianguyen/ifme/issues)
+* [Help wanted](https://github.com/julianguyen/ifme/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)
+
+Languages/Tech:
+
+* Ruby
+* Rails
 
 
 ### Illinois Campaign for Political Reform
@@ -242,5 +288,29 @@ Languages/Tech:
 * JavaScript
 * Node.js, Express, Jade
 * Postgres
+
+### Quill
+Empirical-Core is our web app for managing students, assigning activities, and viewing results. Core seamlessly incorporates 3rd party applications via the Empirical API. 
+
+* [Quill.org](http://www.quill.org/)
+* [Github](https://github.com/empirical-org/Empirical-Core)
+* [Contributing](https://github.com/empirical-org/Empirical-Core/blob/develop/CONTRIBUTING.md)
+* [Documentation](http://empirical-core.readme.io/v1.0)
+* [Easy Install](https://github.com/empirical-org/Empirical-Core#empirical-easy-install)
+* [Feature specific documentation](https://github.com/empirical-org/Empirical-Core#documentation-related-to-specific-features)
+
+Issues:
+
+* [All](https://github.com/empirical-org/Empirical-Core/issues)
+* [Starter](https://github.com/empirical-org/Empirical-Core/labels/Level%3A%20Starter)
+* [Open Source Projects](https://github.com/empirical-org/Empirical-Core/labels/Open%20Source%20Projects)
+
+Languages/Tech:
+
+* Ruby
+* Rails
+* Postgres
+* Redis
+* JavaScript
 
 
