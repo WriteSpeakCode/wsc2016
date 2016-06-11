@@ -48,14 +48,16 @@
 * [HospitalRun](#hospitalrun)
 * [OpenTreeMap](#opentreemap-core)
 * **[Ushahidi Platform](#ushahidi-platform)**
+* [U.S. Web Design Standards](us-web-design-standards)
 
 ### Frontend (HTML & CSS)
 
-* **[Drupal](#drupal)**
+* [Drupal](#drupal)
 * **[HospitalRun](#hospitalrun)**
 * [Mozilla](#mozilla)
 * [Ohana (Code for America)](#ohana)
 * [OpenStreetMap Tasking Manager](#openstreetmap-tasking-manager)
+* **[U.S. Web Design Standards](us-web-design-standards)**
 
 ### Go
 
@@ -81,6 +83,7 @@ See also [Node](#node)
 * [Mozilla](#mozilla)
 * **[OpenStreetMap Tasking Manager](#openstreetmap-tasking-manager)**
 * [Refuge Restrooms](#refuge-restrooms-web)
+* [U.S. Web Design Standards](us-web-design-standards)
 
 ### iOS
 
