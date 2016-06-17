@@ -119,7 +119,7 @@ See [iOS](#ios)
 
 ### Ruby
 
-* [Callback Women](#callback-women)
+* [CallbackWomen](#callback-women)
 * [Exercism.io](#exercism-io)
 * [Girl Develop It Website](#girl-develop-it-website)
 * **[GrowStuff](#growstuff)**
@@ -146,9 +146,23 @@ See [iOS](#ios)
 
 ## Suggested Projects
 
-### Callback Women
+### CallbackWomen
+
+Since 2013, CallbackWomen has been on a mission of radically increasing gender diversity at the podium of professional programmers' conferences. Many women and gender nonbinary people say that CallbackWomen started their conference speaking career!
 
 * [Website](http://www.callbackwomen.com/)
+* [Twitter](http://twitter.com/callbackwomen)
+
+CallbackWomen founder Carina C. Zona ([@cczona](http://twitter.com/cczona)) and RailsBridge founder Sarah Mei ([@sarahmei](http://twitter.com/sarahmei)) are Code Day mentors for the CallbackWomen Conference Opportunities open source app under development by Ministry of Velocity. The app is designed to be a comrehensive source of "institutional knowledge" about speakers, diversity, inclusion, and outreach by over 1000 conferences for professional programmers.
+
+* [Repository](https://github.com/minifast/conference-opportunities)
+* [Issue tracker](https://www.pivotaltracker.com/n/projects/1433838)
+
+We'd love to help some people make a first pull request today! Experienced developers and/or additional mentors are also very welcome. The codebase is Rails, there's a disciplined suite of tests. Way to contribute:
+
+* Writing/documentation
+* UI/UX (we have wireframes ready to work from!)
+* Feature implementation (new devs will work on basic search, experienced devs will integrate geo-searching)
 
 ### Census Reporter
 
