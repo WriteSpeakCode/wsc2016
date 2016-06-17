@@ -62,7 +62,7 @@
 ### Go
 
 * **[Docker](#docker)**
-* [Exercism.io](#exercism-io)
+* [Exercism.io](#exercismio)
 * [Mozilla](#mozilla)
 
 ### Java
