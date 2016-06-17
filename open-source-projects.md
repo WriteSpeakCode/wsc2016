@@ -119,6 +119,7 @@ See [iOS](#ios)
 
 ### Ruby
 
+* [Callback Women](#callback-women)
 * [Exercism.io](#exercism-io)
 * [Girl Develop It Website](#girl-develop-it-website)
 * **[GrowStuff](#growstuff)**
@@ -144,6 +145,10 @@ See [iOS](#ios)
 See [iOS](#ios)
 
 ## Suggested Projects
+
+### Callback Women
+
+* [Website](http://www.callbackwomen.com/)
 
 ### Census Reporter
 
