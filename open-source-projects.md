@@ -127,6 +127,8 @@ See [iOS](#ios)
 * [Ohana (Code for America)](#ohana)
 * **[Red Cross ArcData](#red-cross-arcdata)**
 * [Quill](#quill)
+* [RubyGems](http://guides.rubygems.org/contributing/) - [About needs](http://blog.rubygems.org/2016/05/20/rubygems-org-2016-push.html)
+* [Sprockets](http://www.schneems.com/2016/05/31/saving-sprockets.html)
 
 ### Rust
 
