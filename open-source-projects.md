@@ -429,7 +429,7 @@ Languages/Tech:
 
 ### Mozilla
 
-* [Developer Guide](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Introduction]
+* [Developer Guide](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Introduction)
 
 Languages/Tech:
 
