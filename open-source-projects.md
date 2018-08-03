@@ -62,7 +62,7 @@
 ### Go
 
 * **[Docker](#docker)**
-* [Exercism.io](#exercism-io)
+* [Exercism.io](#exercismio)
 * [Mozilla](#mozilla)
 
 ### Java
@@ -76,7 +76,7 @@ See also [Android](#android)
 ### JavaScript
 See also [Node](#node)
 
-* [Exercism.io](#exercism-io)
+* [Exercism.io](#exercismio)
 * [Girl Develop It Website](#girl-develop-it-website)
 * **[HospitalRun](#hospitalrun) - Ember**
 * [LibreOffice](#libreoffice)
@@ -120,7 +120,7 @@ See [iOS](#ios)
 ### Ruby
 
 * [Callback Women](#callback-women)
-* [Exercism.io](#exercism-io)
+* [Exercism.io](#exercismio)
 * [Girl Develop It Website](#girl-develop-it-website)
 * **[GrowStuff](#growstuff)**
 * [If Me](#ifme)
