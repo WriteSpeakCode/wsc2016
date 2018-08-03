@@ -8,7 +8,7 @@
 
 * [OpenHatch](http://openhatch.org/) - [Bitesized](https://openhatch.org/search/?q=&toughness=bitesize)
 * [CodeMontage](https://www.codemontage.com/)
-* [Open Source for Women](os4w.org)
+* [Open Source for Women](https://os4w.org/)
 * [Github.com/Explore](https://github.com/explore)
 
 ## Suggestions by Language
